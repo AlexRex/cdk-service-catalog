@@ -1,4 +1,4 @@
-# Welcome to your CDK Service Catalog!
+# Welcome to CDK Service Catalog!
 
 This project will allow you to define your Service Catalog products as CDK constructs instead of having to define them as a Cloudformation template sitting in an S3 bucket.
 
