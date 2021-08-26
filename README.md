@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project!
+# Welcome to CDK Service Catalog!
 
-This is a blank project for TypeScript development with CDK.
+This project will allow you to define your Service Catalog products as CDK constructs instead of having to define them as a Cloudformation template sitting in an S3 bucket.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
